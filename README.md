@@ -7,3 +7,4 @@ Participantes:
 
 - Ellison Leão
 - João Moacir Barth Junior
+- Miriam Retka
