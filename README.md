@@ -10,3 +10,4 @@ Participantes:
 - João Rafael
 - Vanessa Romankiv
 - ![Ramiro Batista da Luz](imagens/ramiro.jpg) Ramiro Batista da Luz
+- Samara Tiemi
