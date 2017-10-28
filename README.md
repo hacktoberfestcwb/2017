@@ -7,3 +7,4 @@ Participantes:
 
 - Ellison Leão
 - Eluana Cardoso
+- Miriam Retka
