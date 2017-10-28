@@ -9,4 +9,4 @@ Participantes:
 - Miriam Retka
 - João Rafael
 - Vanessa Romankiv
-- Ramiro Batista da Luz
+- ![Ramiro Batista da Luz](imagens/ramiro.jpg) Ramiro Batista da Luz
