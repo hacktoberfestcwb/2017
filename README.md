@@ -9,3 +9,4 @@ Participantes:
 - Miriam Retka
 - João Rafael
 - Vanessa Romankiv
+- Ramiro Batista da Luz
